@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Streamlit (local config/secrets)
+.streamlit/
+
+# Logs / OS / editors
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Real emails you analyze locally - never commit these
+*.eml
+!sample_emails/*.eml

@@ -1,0 +1,12 @@
+From: "Acme Portal" <notifications@mailer-service.example>
+To: sarah.chen@acme.example
+Subject: Unusual activity detected - verify your account
+Date: Mon, 13 Jan 2025 16:20:00 +0000
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>We have detected unusual activity on your account.</p>
+<p>Your password will expire within 24 hours.</p>
+<p><a href="http://acme-verify.example/reset">https://portal.acme.example/password-reset</a></p>
+<p>If this was not you, confirm your identity immediately.</p>
+</body></html>

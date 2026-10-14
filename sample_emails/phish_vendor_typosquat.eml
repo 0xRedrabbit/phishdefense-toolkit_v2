@@ -1,0 +1,23 @@
+From: "Globex Billing" <accounts@globex-suppliers.example>
+To: john.miller@acme.example
+Subject: Payment overdue - Invoice Q4-2481
+Date: Mon, 13 Jan 2025 14:05:00 +0000
+Content-Type: text/plain; charset=utf-8
+
+Dear Acme Corp finance team,
+
+Our records show that payment for invoice Q4-2481 is overdue. To avoid
+disruption to your supply, please remit the outstanding amount immediately:
+
+http://globex-suppliers.example/invoices/Q4-2481.pdf
+
+We have also updated our remittance details:
+
+https://globex-billing.example/pay/acme
+
+If you have already paid, please send confirmation to this address so we can
+update our records.
+
+Regards,
+Accounts Receivable
+Globex

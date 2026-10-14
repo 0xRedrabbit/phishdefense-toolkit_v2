@@ -1,0 +1,31 @@
+organization: "Acme Corp"
+
+domains:
+  - acme.example
+
+urls:
+  - acme.example
+  - portal.acme.example
+
+staff:
+  - name: "Jane Smith"
+    role: "CEO"
+    email: jane.smith@acme.example
+  - name: "John Miller"
+    role: "CFO"
+    email: john.miller@acme.example
+  - name: "Sarah Chen"
+    role: "IT Manager"
+    email: sarah.chen@acme.example
+
+third_parties:
+  - name: "Globex"
+    domains:
+      - globex.example
+    emails:
+      - billing@globex.example
+  - name: "Initech"
+    domains:
+      - initech.example
+    emails:
+      - support@initech.example

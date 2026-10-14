@@ -1,0 +1,3 @@
+streamlit>=1.30
+pyyaml>=6.0
+rapidfuzz>=3.0   # optional - toolkit falls back to stdlib difflib if absent
